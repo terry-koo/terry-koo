@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @terry-koo from Korea 
+- 👋 Hi, I’m @terry-koo from South Korea 
 - 📫 How to reach me xpflxhfl94@naver.com
 
 <!---
