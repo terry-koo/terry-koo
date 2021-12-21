@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @terry-koo from Korea 
-- 👀 I’m interested in Spring
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Spring project
 - 📫 How to reach me xpflxhfl94@naver.com
 
 <!---
