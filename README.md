@@ -6,7 +6,7 @@
 
 
 ## Get in touch
-- Email : xpflxhfl94@naver.com
+- :mailbox:Email : xpflxhfl94@naver.com
 
 
 <!---
