@@ -14,7 +14,7 @@
 
 
 ## Get in touch
-- :mailbox:Email : xpflxhfl94@naver.com
+### - :mailbox:Email : xpflxhfl94@naver.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 <!---
