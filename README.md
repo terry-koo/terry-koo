@@ -46,4 +46,4 @@
 [2023/02/16 - [Swift] CoW(Copy on Write)의 동작방식 + 메모리 주소 디버깅](https://terrypotter.tistory.com/47) <br/>
 [2023/02/09 - [Swift] Class의 성능을 향상 시킬수 있는 방법 :: Static Dispatch](https://terrypotter.tistory.com/46) <br/>
 [2023/02/09 - [Swift] Class, Struct, Enum의 차이점을 알아보자](https://terrypotter.tistory.com/45) <br/>
-[2023/01/30 - [Swift]매우 간단하게 함수의 성능을 개선하기(메모리 관리)](https://terrypotter.tistory.com/44) <br/>
+[2023/01/30 - [Swift] 매우 간단하게 함수의 성능을 개선하기(메모리 관리)](https://terrypotter.tistory.com/44) <br/>
