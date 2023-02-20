@@ -2,14 +2,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Terry&desc=iOS%20Developer&fontSize=90&rotate=13&fontAlignY=15&fontAlign=75&descAlignY=34&descAlign=72.5&&animation=twinkling)
 
 # 👋 Hi, I'm Bonsung Koo 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars)
 
-## Get in touch
+## 😆 Get in touch
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devterrykoo@gmail.com)](mailto:devterrykoo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-koo/)](https://www.linkedin.com/in/terry-koo/)
 
-### ✍ Recent blog posts 
+## ✍ Recent blog posts 
 [2023/02/18 - [Java] 자바에는 Call by reference가 없다](https://terrypotter.tistory.com/51) <br/>
 [2023/02/18 - [Swift] String과 Substring을 메모리에서 효율적으로 관리하는 방법](https://terrypotter.tistory.com/50) <br/>
 [2023/02/18 - [Swift] Swift 문자열은 어떻게 구성되어 있을까? - Extended Grapheme Clusters](https://terrypotter.tistory.com/49) <br/>
