@@ -8,7 +8,6 @@ markdown_text = """
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Terry&desc=iOS%20Developer&fontSize=90&rotate=13&fontAlignY=15&fontAlign=75&descAlignY=34&descAlign=72.5&&animation=twinkling)
 
 # 👋 Hi, I'm Bonsung Koo 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars)
 
 ## 😆 Get in touch
