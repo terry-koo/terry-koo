@@ -1,16 +1,15 @@
 
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Terry&desc=iOS%20Developer&fontSize=90&rotate=13&fontAlignY=15&fontAlign=75&descAlignY=34&descAlign=72.5&&animation=twinkling)
 
 # 👋 Hi, I'm Bonsung Koo 
+ 
+    만나서 반갑습니다!
 
-**만나서 반갑습니다!**
+    - 기술적으로 깊게 파고들어 탐구하는 것을 즐깁니다.
 
-- 기술적으로 깊게 파고들어 탐구하는 것을 즐깁니다.
+    - 팀원들과 함께 성장하며 얻는 가치를 중요하게 생각합니다.
 
-- 팀원들과 함께 성장하며 얻는 가치를 중요하게 생각합니다.
-
-- 다양한 사람들과의 커뮤니케이션을 통해 성장하는 것을 좋아합니다.
+    - 다양한 사람들과의 커뮤니케이션을 통해 성장하는 것을 좋아합니다.
 
 ## 📚 Career
 
