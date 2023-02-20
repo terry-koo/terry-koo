@@ -2,7 +2,7 @@ import feedparser, time
 
 URL="https://terrypotter.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=7
+MAX_POST = 8
 
 markdown_text = """
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Terry&desc=iOS%20Developer&fontSize=90&rotate=13&fontAlignY=15&fontAlign=75&descAlignY=34&descAlign=72.5&&animation=twinkling)
@@ -49,7 +49,7 @@ markdown_text = """
 
 
 for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx > MAX_POST:
+    if idx >= MAX_POST:
         break
     else:
         feed_date = feed['published_parsed']
