@@ -5,7 +5,7 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 8
 
 markdown_text = """
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Terry&desc=iOS%20Developer&fontSize=90&rotate=13&fontAlignY=15&fontAlign=75&descAlignY=34&descAlign=72.5&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Terry&desc=iOS%20Developer&fontSize=90&rotate=13&fontAlignY=15&fontAlign=75&descAlignY=34&descAlign=73&&animation=twinkling)
 
 # 👋 Hi, I'm Bonsung Koo 
  
