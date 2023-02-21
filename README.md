@@ -37,6 +37,9 @@
 ## 📫 Social
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devterrykoo@gmail.com)](mailto:devterrykoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-koo/)](https://www.linkedin.com/in/terry-koo/)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TVTime&logoColor=white&link=https://terrypotter.tistory.com/)](https://terrypotter.tistory.com/)
+
+
 
 ## ✍ Recent blog posts 
 [2023/02/18 - [Java] 자바에는 Call by reference가 없다](https://terrypotter.tistory.com/51) <br/>
