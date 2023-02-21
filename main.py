@@ -43,6 +43,9 @@ markdown_text = """
 ## 📫 Social
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devterrykoo@gmail.com)](mailto:devterrykoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-koo/)](https://www.linkedin.com/in/terry-koo/)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TVTime&logoColor=white&link=https://terrypotter.tistory.com/)](https://terrypotter.tistory.com/)
+
+
 
 ## ✍ Recent blog posts 
 """ # list of blog posts will be appended here
