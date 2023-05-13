@@ -13,15 +13,16 @@
 
 ## 📚 Career
 
-- Apple Developer Academy @ POSTECH 1기
+- Apple Developer Academy @ POSTECH 1기 (2022.03 ~ 2022.12)
+
+- Apple Developer Academy @ POSTECH 1기 2년차 과정 (2023.03 ~ 2023.09)
 
 - WWDC22 Challenge Winner (애플 장학생)
 
 - WWDC23 Challenge Winner (애플 장학생)
 
 
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars) -->
+<!-- ![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars) -->
 
 ## 💎 Tech Stack
 
