@@ -19,7 +19,7 @@
 
 - Apple Developer Academy @ POSTECH 1기 2년차 과정 (2023.03 ~ 2023.09)
 
-- WWDC23 Challenge Winner [애플 장학생] (2023.05)
+- WWDC23 Challenge Winner [애플 장학생] (2023.04)
 
 
 <!-- ![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars) -->
