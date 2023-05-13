@@ -17,6 +17,8 @@
 
 - WWDC22 Challenge Winner (애플 장학생)
 
+- WWDC23 Challenge Winner (애플 장학생)
+
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars) -->
