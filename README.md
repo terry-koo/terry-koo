@@ -17,7 +17,7 @@
 
 - WWDC22 Swift Student Challenge Winner [애플 장학생] (2022.04)
 
-- Apple Developer Academy @ POSTECH 1기 2년차 과정 (2023.03 ~ 2023.09)
+- Apple Developer Academy @ POSTECH 1기 엑셀레이팅 과정 (2023.03 ~ 2023.09)
 
 - WWDC23 Swift Student Challenge Winner [애플 장학생] (2023.04)
 
