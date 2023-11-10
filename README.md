@@ -13,13 +13,16 @@
 
 ## 📚 Career
 
-- Apple Developer Academy @ POSTECH 1기
+- Apple Developer Academy @ POSTECH 1기 (2022.03 ~ 2022.12)
 
-- WWDC22 Challenge Winner (애플 장학생)
+- WWDC22 Swift Student Challenge Winner [애플 장학생] (2022.04)
+
+- Apple Developer Academy @ POSTECH 1기 엑셀레이팅 과정 (2023.03 ~ 2023.09)
+
+- WWDC23 Swift Student Challenge Winner [애플 장학생] (2023.04)
 
 
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars) -->
+<!-- ![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars) -->
 
 ## 💎 Tech Stack
 
@@ -42,8 +45,8 @@
 
 
 ## ✍ Recent blog posts 
+[2023/11/10 - 강한 참조가 사라지면 진짜 ARC가 해제시켜줄까? 에 대한 메모리 실험](https://terrypotter.tistory.com/58) <br/>
 [2023/11/09 - weak, [weak self]를 사용하여 순환참조를 해결하기 + 메모리 영역 확인](https://terrypotter.tistory.com/56) <br/>
 [2023/11/08 - iOS13 이후 AppDelegate와 SceneDelegate](https://terrypotter.tistory.com/55) <br/>
 [2023/03/02 - [Swift] Subscript 알아보기 :: String에서는 subscript를 사용할 수 없는 이유](https://terrypotter.tistory.com/54) <br/>
 [2023/02/23 - [Swift] AnyObject란? (런타임 시점에 결정된다)](https://terrypotter.tistory.com/52) <br/>
-[2023/02/18 - [Java] 자바에는 Call by reference가 없다](https://terrypotter.tistory.com/51) <br/>
