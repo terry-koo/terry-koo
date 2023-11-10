@@ -13,16 +13,13 @@
 
 ## 📚 Career
 
-- Apple Developer Academy @ POSTECH 1기 (2022.03 ~ 2022.12)
+- Apple Developer Academy @ POSTECH 1기
 
-- WWDC22 Swift Student Challenge Winner [애플 장학생] (2022.04)
-
-- Apple Developer Academy @ POSTECH 1기 엑셀레이팅 과정 (2023.03 ~ 2023.09)
-
-- WWDC23 Swift Student Challenge Winner [애플 장학생] (2023.04)
+- WWDC22 Challenge Winner (애플 장학생)
 
 
-<!-- ![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terry-koo&show_icons=true&theme=radical&hide=stars) -->
 
 ## 💎 Tech Stack
 
@@ -41,3 +38,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devterrykoo@gmail.com)](mailto:devterrykoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-koo/)](https://www.linkedin.com/in/terry-koo/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TVTime&logoColor=white&link=https://terrypotter.tistory.com/)](https://terrypotter.tistory.com/)
+
+
+
+## ✍ Recent blog posts 
+[2023/11/09 - weak, [weak self]를 사용하여 순환참조를 해결하기 + 메모리 영역 확인](https://terrypotter.tistory.com/56) <br/>
+[2023/11/08 - iOS13 이후 AppDelegate와 SceneDelegate](https://terrypotter.tistory.com/55) <br/>
+[2023/03/02 - [Swift] Subscript 알아보기 :: String에서는 subscript를 사용할 수 없는 이유](https://terrypotter.tistory.com/54) <br/>
+[2023/02/23 - [Swift] AnyObject란? (런타임 시점에 결정된다)](https://terrypotter.tistory.com/52) <br/>
+[2023/02/18 - [Java] 자바에는 Call by reference가 없다](https://terrypotter.tistory.com/51) <br/>
+[2023/02/18 - [Swift] String과 Substring을 메모리에서 효율적으로 관리하는 방법](https://terrypotter.tistory.com/50) <br/>
+[2023/02/18 - [Swift] 문자열은 무엇으로 구성되어 있을까? - Extended Grapheme Clusters](https://terrypotter.tistory.com/49) <br/>
+[2023/02/16 - [Swift] Convenience initializer 알아보기](https://terrypotter.tistory.com/48) <br/>
