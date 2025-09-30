@@ -2,14 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Terry&desc=iOS%20Developer&fontSize=90&rotate=13&fontAlignY=15&fontAlign=75&descAlignY=34&descAlign=73&&animation=twinkling)
 
 # 👋 Hi, I'm Bonsung Koo 
- 
-    만나서 반갑습니다!
 
-    - 기술적으로 깊게 파고들어 탐구하는 것을 즐깁니다.
-
-    - 팀원들과 함께 성장하며 얻는 가치를 중요하게 생각합니다.
-
-    - 다양한 사람들과의 커뮤니케이션을 통해 성장하는 것을 좋아합니다.
 
 ## 📚 Career
 
@@ -43,10 +36,3 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TVTime&logoColor=white&link=https://terrypotter.tistory.com/)](https://terrypotter.tistory.com/)
 
 
-
-## ✍ Recent blog posts 
-[2023/11/10 - 강한 참조가 사라지면 진짜 ARC가 해제시켜줄까? 에 대한 메모리 실험](https://terrypotter.tistory.com/58) <br/>
-[2023/11/09 - weak, [weak self]를 사용하여 순환참조를 해결하기 + 메모리 영역 확인](https://terrypotter.tistory.com/56) <br/>
-[2023/11/08 - iOS13 이후 AppDelegate와 SceneDelegate](https://terrypotter.tistory.com/55) <br/>
-[2023/03/02 - [Swift] Subscript 알아보기 :: String에서는 subscript를 사용할 수 없는 이유](https://terrypotter.tistory.com/54) <br/>
-[2023/02/23 - [Swift] AnyObject란? (런타임 시점에 결정된다)](https://terrypotter.tistory.com/52) <br/>
